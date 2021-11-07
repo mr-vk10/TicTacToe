@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTac</string>
+    <string name="points">SCORES</string>
+    <string name="contiQues">Do you want to Continue?</string>
+    <string name="y">Yes</string>
+    <string name="n">No</string>
+</resources>
